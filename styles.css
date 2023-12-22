@@ -1,0 +1,137 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #FFFF;
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    background-color: #963696;
+    color: #fff;
+    padding: 1px;
+    text-align: center;
+}
+
+.logo {
+    max-width: 150px;
+    max-height: 100px;
+}
+
+h1, h2 {
+     margin: 8px 0;
+}
+
+h1 {
+    margin: 8px 0; /* Adjust margin for h1 */
+    font-size: 24px; /* Adjust the font size as needed */
+}
+
+h2 {
+    font-size: 1.4em; /* Adjust the font size for the new header */
+}
+
+h3 {
+    font-size: 1.4em; /* Adjust the font size for the new header */
+}
+
+h4 {
+    font-size: 1.4em; /* Adjust the font size for the new header */
+}
+
+h5 {
+    font-size: 1.4em; /* Adjust the font size for the new header */
+}
+
+h6 {
+    font-size: 1.4em; /* Adjust the font size for the new header */
+}
+
+h7 {
+    font-size: 1.4em; /* Adjust the font size for the new header */
+}
+
+h8 {
+    font-size: 1.4em; /* Adjust the font size for the new header */
+}
+
+h9 {
+    font-size: 1.4em; /* Adjust the font size for the new header */
+}
+
+nav {
+    background-color: #dda0dd;
+    color: #fff;
+    padding: 10px;
+    text-align: center;
+}
+
+.menu-item {
+    display: inline-block;
+    margin: 0 10px;
+    text-decoration: none;
+    color: #fff;
+}
+
+body {
+    font-family: Arial, sans-serif;
+    background-color: #FFFF;
+    margin: 0;
+    padding: 0;
+}
+
+form {
+    background-color: #dda0dd;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    padding: 30px;
+    text-align: center;
+    margin: 30px auto;
+    max-width: 1200px;
+}
+
+h2, h3, h4, h5, h6, h7, h8, h9 {
+    margin-bottom: 20px; /* Add some spacing below the title */
+    color: #963696;
+}
+
+.form-group {
+    display: flex;
+    align-items: center;
+    margin-bottom: 15px;
+}
+
+label {
+    display: block;
+    margin-bottom: 10px;
+    color: #333;
+}
+
+input, textarea, select {
+    width: 100%;
+    padding: 8px;
+    margin-bottom: 15px;
+    box-sizing: border-box;
+}
+
+button {
+    background-color: #963696;
+    color: #fff;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+    font-size: 1em;
+}
+footer {
+    background-color: #963696;
+    color: #fff;
+    padding: 10px;
+    text-align: center;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+}
